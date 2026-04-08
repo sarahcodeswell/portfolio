@@ -399,8 +399,25 @@
     padding: 0 1.25rem;
   }
 
+  .nav {
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .navLink {
+    font-size: 12px;
+  }
+
   .heroName {
-    font-size: 1.5rem;
+    font-size: 1.75rem;
+  }
+
+  .heroBio {
+    font-size: 13px;
+  }
+
+  .socialLinks {
+    margin-top: 1rem;
   }
 
   .projectHeader {
@@ -408,7 +425,17 @@
     gap: 0.25rem;
   }
 
-  .nav {
-    gap: 1.25rem;
+  .portrait {
+    float: none;
+    display: block;
+    margin: 0 auto 1.5rem;
+  }
+
+  .about {
+    text-align: left;
+  }
+
+  .sectionLabel {
+    font-size: 10px;
   }
 }
