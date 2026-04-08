@@ -41,7 +41,7 @@ export default function Home() {
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Sarah Ritter — sarahcodeswell.com" />
-        <meta name="twitter:description" content="Product leader, anthropologist by trade, technologist by obsession. Building things with intention." />
+        <meta name="twitter:description" content="I build things with Claude, study humans like artifacts, and tend to my side projects like a well-kept garden. Anthropologist by trade, technologist by obsession." />
         <meta name="twitter:image" content="https://sarahcodeswell.com/og-image.png" />
       </Head>
 
