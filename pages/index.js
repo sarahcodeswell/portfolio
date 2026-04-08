@@ -33,6 +33,16 @@ export default function Home() {
     <>
       <Head>
         <title>Sarah Ritter — sarahcodeswell.com</title>
+        <meta name="description" content="I build things with Claude, study humans like artifacts, and tend to my side projects like a well-kept garden. Anthropologist by trade, technologist by obsession." />
+        <meta property="og:title" content="Sarah Ritter — sarahcodeswell.com" />
+        <meta property="og:description" content="I build things with Claude, study humans like artifacts, and tend to my side projects like a well-kept garden. Anthropologist by trade, technologist by obsession." />
+        <meta property="og:image" content="https://sarahcodeswell.com/og-image.png" />
+        <meta property="og:url" content="https://sarahcodeswell.com" />
+        <meta property="og:type" content="website" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="Sarah Ritter — sarahcodeswell.com" />
+        <meta name="twitter:description" content="Product leader, anthropologist by trade, technologist by obsession. Building things with intention." />
+        <meta name="twitter:image" content="https://sarahcodeswell.com/og-image.png" />
       </Head>
 
       <div className={styles.page}>
@@ -124,7 +134,7 @@ export default function Home() {
               </p>
               <p>
                 I live in Seattle with my husband{' '}
-                <a href="https://en.wikipedia.org/wiki/Jordan_Ritter" target="_blank" rel="noopener noreferrer" className={styles.aboutLink}>Jordan</a>
+                <a href="https://github.com/jpr5" target="_blank" rel="noopener noreferrer" className={styles.aboutLink}>Jordan</a>
                 {' '}and our kids. I'm rarely online — find me in real life with a book in hand or on a boat.
               </p>
             </div>
