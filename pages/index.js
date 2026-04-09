@@ -3,6 +3,14 @@ import styles from '../styles/Home.module.css'
 
 const projects = [
   {
+    name: '/livewell project',
+    url: 'liveablecities.org',
+    href: 'https://www.liveablecities.org',
+    description: 'Hard truths about where we live. Can teachers afford homes? Are families one medical bill from crisis? We analyzed 21 cities across 32 metrics that actually matter—affordability, safety, schools, climate risks, healthcare, jobs, and community. Not another "best places" list, but data-driven analysis for families and civic leaders.',
+    stack: '// next.js · typescript · supabase · claude ai · vercel',
+    tags: ['civic data', 'open source', 'ai insights', 'urban planning', 'families'],
+  },
+  {
     name: 'ordinaryfriend',
     url: 'ordinaryfriend.com',
     href: 'https://www.ordinaryfriend.com',
