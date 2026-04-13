@@ -3,10 +3,10 @@ import styles from '../styles/Home.module.css'
 
 const projects = [
   {
-    name: '/livewell project',
+    name: 'The Livewell Project',
     url: 'liveablecities.org',
     href: 'https://www.liveablecities.org',
-    description: 'Hard truths about where we live. Can teachers afford homes? Are families one medical bill from crisis? We analyzed 21 cities across 32 metrics that actually matter—affordability, safety, schools, climate risks, healthcare, jobs, and community. Not another "best places" list, but data-driven analysis for families and civic leaders.',
+    description: 'Hard truths about where we live. Can teachers afford homes? Are families one medical bill from crisis? We analyzed 30 cities across 50 metrics that actually matter—affordability, safety, schools, climate risks, healthcare, jobs, and community. Not another "best places" list, but data-driven analysis for families and civic leaders.',
     stack: '// next.js · typescript · supabase · claude ai · vercel',
     tags: ['civic data', 'open source', 'ai insights', 'urban planning', 'families'],
   },
@@ -24,13 +24,13 @@ const projects = [
     href: 'https://www.sarahsbooks.com',
     description: 'A personal book recommendation app powered by my 200+ book library. Features ability to import Goodreads collection, discover books by curated themes, and build reading circles. Directs readers to local libraries, bookstores, and bookshop.org to support the reading communities we live in.',
     stack: '// vite · react · supabase · vercel',
-    tags: ['books', 'recommendations', 'personal library', 'kindle'],
+    tags: ['books', 'recommendations', 'personal library', 'shop local'],
   },
   {
     name: 'seattlecampfinder',
     url: 'seattlecampfinder.org',
     href: 'https://www.seattlecampfinder.org',
-    description: 'A comprehensive directory of Seattle-area summer camps. Finding summer camps shouldn\'t be so hard. Searchable, filterable, actually useful.',
+    description: 'A comprehensive directory of Seattle-area summer camps with real details parents actually need. Age ranges, costs, schedules, specialties—all searchable and filterable. Because finding quality summer care for your kids shouldn\'t be a full time job.',
     stack: '// next.js · vercel',
     tags: ['seattle', 'families', 'directory', 'community'],
   },
