@@ -4,8 +4,8 @@ import styles from '../styles/Home.module.css'
 const projects = [
   {
     name: 'The Livewell Project',
-    url: 'liveablecities.org',
-    href: 'https://www.liveablecities.org',
+    url: 'www.livewell-project.org',
+    href: 'https://www.livewell-project.org',
     description: 'Hard truths about where we live. Can teachers afford homes? Are families one medical bill from crisis? We analyzed 30 cities across 50 metrics that actually matter—affordability, safety, schools, climate risks, healthcare, jobs, and community. Not another "best places" list, but data-driven analysis for families and civic leaders.',
     stack: '// next.js · typescript · supabase · claude ai · vercel',
     tags: ['civic data', 'open source', 'ai insights', 'urban planning', 'families'],
